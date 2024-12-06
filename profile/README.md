@@ -4,6 +4,19 @@
 The **Sign Language Learning Application** is an interactive platform designed to teach primary school students both Sinhala and English sign languages. By incorporating gamification and innovative learning strategies, the application bridges the gap in bilingual sign language resources for young learners, especially in Sri Lanka.
 
 ---
+## Supervisor
+
+- **Supervisor**: [Ms. Wishalya Tissera](https://www.linkedin.com/in/wishalya-tissera/)
+- **Co-Supervisor**: [Ms. Shalini Rupasinghe](https://www.linkedin.com/in/shalini-rupasinghe/)
+
+## Team Members
+
+| Member Name         | Sub-Objective                      | Tasks                                |
+|---------------------|------------------------------------|--------------------------------------|
+| Kumara H.M.I.M      | Letters Identification            | Convert letters to/from signing symbols. Develop games for letter identification. |
+| Bandara J.M.O.N     | Numbers Identification            | Convert numbers to/from signing symbols. Develop games for number identification. |
+| Kalpage T.L.        | Object and Environment Identification | Create games for recognizing shapes, animals, and objects. |
+| Gangabadage U.D.    | Interactive Drawing Activities for Primary schoolers | Practice drawing symbols and objects to improve memory retention and recognition. |
 
 ## Features
 
@@ -68,18 +81,3 @@ To provide a comprehensive, engaging, and interactive platform for learning sign
 - Smith, J. A., & Anderson, C. (2019). *The Role of Technology in Sign Language Learning*.
 
 ---
-
-## Team Roles
-
-| Member Name         | Sub-Objective                      | Tasks                                |
-|---------------------|------------------------------------|--------------------------------------|
-| Kumara H.M.I.M      | Letters Identification            | Convert letters to/from signing symbols. Develop games for letter identification. |
-| Bandara J.M.O.N     | Numbers Identification            | Convert numbers to/from signing symbols. Develop games for number identification. |
-| Kalpage T.L.        | Object and Environment Identification | Create games for recognizing shapes, animals, and objects. |
-| Gangabadage U.D.    | Interactive Drawing Activities for Primary schoolers | Practice drawing symbols and objects to improve memory retention and recognition. |
-
-## Supervisor and Panel
-
-- **Supervisor**: Ms. Wishalya Tissera  
-- **Co-Supervisor**: Ms. Shalini Rupasinghe  
-
