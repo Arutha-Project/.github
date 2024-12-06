@@ -69,9 +69,17 @@ To provide a comprehensive, engaging, and interactive platform for learning sign
 
 ---
 
-## Contributors
-- **Kumara H.M.I.M**
-- **Bandara J.M.O.N**
-- **Kalpage T.L.**
-- **Gangabadage U.D.**
+## Team Roles
+
+| Member Name         | Sub-Objective                      | Tasks                                |
+|---------------------|------------------------------------|--------------------------------------|
+| Kumara H.M.I.M      | Letters Identification            | Convert letters to/from signing symbols. Develop games for letter identification. |
+| Bandara J.M.O.N     | Numbers Identification            | Convert numbers to/from signing symbols. Develop games for number identification. |
+| Kalpage T.L.        | Object and Environment Identification | Create games for recognizing shapes, animals, and objects. |
+| Gangabadage U.D.    | Interactive Drawing Activities for Primary schoolers | Practice drawing symbols and objects to improve memory retention and recognition. |
+
+## Supervisor and Panel
+
+- **Supervisor**: Ms. Wishalya Tissera  
+- **Co-Supervisor**: Ms. Shalini Rupasinghe  
 
