@@ -73,6 +73,31 @@ To provide a comprehensive, engaging, and interactive platform for learning sign
 - **Interactive and gamified approach** to learning.
 - Focused on **inclusivity** and **bilingual communication** for diverse classrooms.
 
+## Technology Stack
+
+### Programming Languages
+- **Frontend**: TypeScript
+- **Backend**: Java
+- **Machine Learning**: Python
+- **Database**: PostgreSQL
+
+### Frameworks
+- **Frontend**: React.js, Vite, Ant Design
+- **Backend**: Spring Boot
+
+### Machine Learning Frameworks
+- TensorFlow.js
+- OpenCV.js
+- Keras
+
+### Tools
+- Figma
+- Postman
+- GitHub
+- SonarQube
+- Java CI with Maven
+
+
 ---
 
 ## References
@@ -80,4 +105,3 @@ To provide a comprehensive, engaging, and interactive platform for learning sign
 - Kumarasinghe, K. (2020). *Bridging the Gap: Sign Language Accessibility in Sri Lanka*.
 - Smith, J. A., & Anderson, C. (2019). *The Role of Technology in Sign Language Learning*.
 
----
