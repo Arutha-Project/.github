@@ -4,9 +4,10 @@
 
 The **“අරුත” application** is a unique tool designed to enhance communication skills, particularly for users with hearing impairments. It supports both Sinhala and English, offering four primary functions: **sign symbol identification, number identification, object identification, and interactive drawing activities.** The application requires a large collection of English and Sinhala sign language motions, and collecting and analyzing user interactions will help maintain its functionality and user-friendliness, better tailoring its actions and content to the target audience.
 
-## Introduction
+## Architecture Diagram
+![Architecture Diagram](https://github.com/user-attachments/assets/ec940166-6368-4536-a73e-24cf8a5c9234)
 
-<>
+
 
 ## Project & Repositories
 
