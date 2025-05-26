@@ -15,6 +15,7 @@ The **“අරුත” application** is a unique tool designed to enhance comm
 - [Model Repository](https://github.com/Arutha-Project/Aurtha-Modal)
 - [Backend Repository](https://github.com/Arutha-Project/Arutha-Backend)
 - [Frontend Repository](https://github.com/Arutha-Project/Arutha-Frontend)
+- [Web](https://arutha-research-website.onrender.com/)
 
 ---
 
